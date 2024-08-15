@@ -92,3 +92,5 @@ while True:
         print('ok')
 
 connection.close()
+
+print('Salut!')
